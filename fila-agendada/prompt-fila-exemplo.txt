@@ -1,0 +1,11 @@
+Você está rodando sozinho, agendado pelo Windows, sem ninguém por perto para aprovar nada.
+
+1. Leia primeiro o CLAUDE.md do projeto (e as notas que ele mandar ler).
+2. Rode SÓ estas tarefas, nesta ordem. Só comece uma quando a anterior estiver fechada:
+   A. (descreva a tarefa: o que fazer, onde estão os arquivos, onde gravar o resultado)
+   B. (próxima tarefa)
+3. Comando fora do que foi liberado será recusado: não tente contornar; anote no relatório e siga para a próxima tarefa.
+4. Proibido: instalar programas, apagar arquivos, editar fora da pasta do projeto, mudar configurações. Na dúvida, não faça: anote no relatório.
+5. Cada tarefa fecha com o resultado gravado e um commit no git (confira antes que nenhuma senha, chave ou token entrou no commit).
+6. Se o limite de uso estiver acabando, pare numa tarefa terminada e diga no relatório onde parou.
+7. No fim, grave relatorio-fila.md na pasta do projeto: o que foi feito, o que foi pulado e por quê, e o que ficou para eu decidir.
